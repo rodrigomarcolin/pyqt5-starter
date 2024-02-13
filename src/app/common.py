@@ -6,6 +6,7 @@ APP_NAME = "Starter"
 VERSION = "0.0.1"
 AUTHORS = [
     {"name": "Rodrigo Marcolin", "email": "rodrigosalesmarcolin@gmail.com"},
+    {"name": "Davi Félix", "email": "davi.felix.lima@gmail.com"},
 ]
 
 MAINTAINERS = []
