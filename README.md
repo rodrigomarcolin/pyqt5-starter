@@ -1,6 +1,6 @@
 # pyqt-starter
 
-[Aba de Boas-Vindas do projeto no Linux](/assets/linux/welcome.png)
+![Aba de Boas-Vindas do projeto no Linux](/assets/linux/welcome.png)
 
 Projeto Starter Python QT5. Tem como objetivo fornecer um bom ponto de partida para projetos Python que necessitem de interface gráfica.
 
@@ -56,4 +56,4 @@ O foco deste projeto é a execução de automatizações WEB utilizando MVB (mod
 
 #### Aba de Credenciais
 
-[Aba de Credenciais no Linux](assets/linux/credentials.png)
+![Aba de Credenciais no Linux](assets/linux/credentials.png)
