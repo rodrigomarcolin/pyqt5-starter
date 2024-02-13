@@ -1,4 +1,4 @@
-# pyqt-starter
+# pyqt5-starter
 
 ![Aba de Boas-Vindas do projeto no Linux](/assets/linux/welcome.png)
 
