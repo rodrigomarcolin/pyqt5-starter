@@ -18,7 +18,8 @@ O foco deste projeto é a execução de automatizações WEB utilizando MVB (mod
 
 1. Python 3.10.12
 
-## Organização do projeto [:top:](#sumário)
+## Organização do projeto
+[:top:](#sumário)
 
 ```
 .
