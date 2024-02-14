@@ -11,7 +11,7 @@ O foco deste projeto é a execução de automatizações WEB utilizando MVB (mod
 1. [Requisitos](#requisitos)
 1. [Organização do Projeto](#organização-do-projeto)
 1. [Como Executar](#como-executar)
-1. [Screenshots] (#screenshots)
+1. [Screenshots](#screenshots)
 
 ## Requisitos [:top:](#sumário)
 
