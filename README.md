@@ -13,7 +13,8 @@ O foco deste projeto é a execução de automatizações WEB utilizando MVB (mod
 1. [Como Executar](#como-executar)
 1. [Screenshots](#screenshots)
 
-## Requisitos [:top:](#sumário)
+## Requisitos
+[:top:](#sumário)
 
 1. Python 3.10.12
 
@@ -44,13 +45,15 @@ O foco deste projeto é a execução de automatizações WEB utilizando MVB (mod
    - `view:` constrói a interface visual, instanciando componentes e inputs. Comunica-se com o **model** para solicitar a recuperação/modificação/validação dados, e com o **bot** para solicitar a execução de uma automação.
    - `bot:` define e executa as automações, puxando as informações necessárias para sua execução a partir do **model**.
 
-## Como Executar [:top:](#sumário)
+## Como Executar
+[:top:](#sumário)
 
 1. Crie um ambiente virtual para Python 3.10 utilizando o gerenciador de ambientes virtuais Python da sua escolha
 1. Instale as dependências necessárias listadas no arquivo `requirements.txt`: `pip install -r requirements.txt`
 1. Para rodar o projeto, execute-o como um pacote: `python3 -m src.app.main`
 
-## Screenshots [:top:](#sumário)
+## Screenshots 
+[:top:](#sumário)
 
 ### Linux
 
